@@ -17,7 +17,7 @@ namespace MailWebApi.Controllers
         {
             return new JsonResult(new
             {
-                message = "heh"
+                message = "meh"
             });
         }
 
